@@ -1,0 +1,361 @@
+repo,num_downstream_repos,num_commits,num_authors,age,stars,package_domain,sub_domain,No.layer,dependences,supply_chain_name
+tensorflow_tensorflow,330472,106087,4679,49,139939,NDR,Framework (DL*),1,37,tensorflow
+pytorch_pytorch,127874,84793,2489,95,31881,NDR,Framework (DL*),1,103,torch
+lanpa_tensorboardX,11347,828,97,30,5495,NDR,Tools (DL*),2,,tensorflow
+lanpa_tensorboardX,11298,828,97,30,5495,NDR,Tools (DL*),2,,torch
+OuYanghaoyue_gym_contra,2897,39,2,5,,DR,Reinforcement Learning,2,,tensorflow
+bamos_block,1894,52,7,34,229,NDR,Framework (DL*),2,1,torch
+keras-team_keras-applications,1566,193,27,18,991,DR,CV,2,2,tensorflow
+IljaManakov_PyTorch-Trainer,1421,121,4,10,,,,2,,torch
+onnx_onnx-coreml,1285,1123,35,25,229,NDR,Tools (DL*),3,7,tensorflow
+tensorflow_serving,1113,4990,272,46,3835,NDR,Tools (DL*),2,,tensorflow
+tf-coreml_tf-coreml,1004,457,48,26,1094,NDR,Tools (DL*),2,5,tensorflow
+onnx_onnx-coreml,970,1123,35,25,229,NDR,Tools (DL*),2,7,torch
+albu_albumentations,874,770,53,18,,DR,CV,2,,torch
+uber_hypothesis-gufunc,759,56,1,5,13,DR,,2,76,torch
+RetroRabbit_skip_thoughts,606,12,8,27,,DR,NLP,2,,tensorflow
+vivek3141_ml,532,399,1,16,10,NDR,Wrapper (DL*),2,3,tensorflow
+dmlc_gluon-cv,514,3015,124,22,2995,DR,CV,2,,torch
+pytorch_audio,513,293,43,31,643,DR,Audio,2,12,torch
+google_nucleus,464,365,11,21,505,DR,Biology,2,9,tensorflow
+EvilPsyCHo_TaskBot,459,28,3,17,24,DR,NLP,2,1,torch
+google_gin-config,457,122,14,21,553,NDR,Tools (DL*),2,1,tensorflow
+GPflow_GPflow,414,4566,122,47,1051,NDR,Model (DL*),2,18,tensorflow
+for-ai_cloud,384,169,9,14,18,NDR,Tools (DL*),2,3,tensorflow
+taomanwai_tensorboardcolab,368,20,4,19,117,NDR,Tools (DL*),2,,tensorflow
+dmlc_gluon-Computer Vision,365,0,0,-1,,DR,CV,3,,tensorflow
+richardliaw_track,315,74,5,18,12,NDR,Tools (DL*),2,3,tensorflow
+dmlc_tvm,302,14360,475,42,,NDR,Tools (DL*),2,,tensorflow
+dmlc_tvm,301,14360,475,42,,NDR,Tools (DL*),2,,torch
+yngtodd_segment,290,292,3,16,1,DR,Medicine,2,,torch
+yngtodd_segment,283,292,3,16,1,DR,Medicine,2,,tensorflow
+wau_keras-rl2,276,20,6,7,8,DR,Reinforcement Learning,2,4,tensorflow
+IljaManakov_ConvolutionalAutoencoderToolkit,254,15,4,10,,NDR,Framework (DL*),2,,torch
+yngtodd_scene,254,177,2,10,1,DR,CV,2,5,torch
+dmlc_dgl,232,4477,84,20,3003,DR,Graph DL,2,15,torch
+dmlc_dgl,231,4477,84,20,3003,DR,Graph DL,2,15,tensorflow
+alexmeinhold_mnist-parser,225,18,2,4,,DR,CV,2,2,tensorflow
+kaiquewdev_tf-gym-app,223,118,1,20,,DR,Reinforcement Learning,2,11,tensorflow
+onnx_onnx-caffe2,222,861,28,27,155,NDR,Tools (DL*),2,1,torch
+cpnota_autonomous-learning-library,220,1015,5,13,11,DR,Reinforcement Learning,2,7,torch
+wesselb_lab,220,338,1,21,3,NDR,Framework (DL*),2,8,tensorflow
+davidenunes_exp,214,69,3,22,9,NDR,Tools (DL*),2,13,tensorflow
+hanslovsky_fuse,204,5,1,10,0,DR,Physics,3,6,tensorflow
+hanslovsky_fuse,204,5,1,10,0,DR,Physics,3,6,torch
+google_gin-config,201,122,14,21,553,NDR,Framework (DL*),2,1,torch
+CyberZHG_keras-bert,200,175,12,14,1132,DR,NLP,2,10,tensorflow
+wesselb_lab,191,338,1,21,3,NDR,Framework (DL*),2,8,torch
+daavoo_pyntcloud,186,1033,38,38,600,DR,CV,2,18,torch
+gitlab.com_hansroh_dnn,171,209,1,21,,NDR,Wrapper (DL*),2,,tensorflow
+google_jax,169,3903,89,13,5229,NDR,Framework (DL*),2,18,torch
+xadupre_scikit-onnxruntime,167,29,3,10,2,NDR,Tools (DL*),3,8,tensorflow
+google_jax,167,3903,89,13,5229,NDR,Framework (DL*),2,18,tensorflow
+xadupre_scikit-onnxruntime,166,29,3,10,2,NDR,Tools (DL*),3,8,torch
+r9y9_nnmnkwii,153,443,7,31,218,DR,Audio,2,6,torch
+CyberZHG_keras-self-attention,151,66,3,16,254,DR,,2,9,tensorflow
+allenai_bilm-tf,150,117,23,27,1354,DR,NLP,2,1,tensorflow
+qubvel_efficientnet,147,170,14,7,599,DR,CV,2,,tensorflow
+samhiatt_ddpg_agent,138,103,1,6,,DR,Reinforcement Learning,2,,tensorflow
+nishaq503_CHESS,127,147,4,4,,DR,Physics,2,78,tensorflow
+unixpickle_wavenet,124,21,1,19,8,DR,Audio,2,1,tensorflow
+google_dopamine,120,206,41,16,8196,DR,Reinforcement Learning,2,5,tensorflow
+onnx_onnxmltools,119,1573,57,22,283,NDR,Tools (DL*),2,22,torch
+allenai_bilm-tf,118,117,23,27,1354,DR,NLP,2,1,torch
+onnx_onnxmltools,118,1573,57,22,283,NDR,Tools (DL*),2,22,tensorflow
+parlance_ctcdecode,116,180,22,30,235,DR,Audio,2,1,torch
+uclmr_jack,115,2745,43,41,0,DR,NLP,2,19,tensorflow
+Khushmeet_squeezeNet,108,16,1,35,,DR,CV,2,,tensorflow
+ModelZoo_ModelZoo,105,59,3,14,103,NDR,Wrapper (DL*),2,39,tensorflow
+BenWhetton_keras-surgeon,104,106,12,31,264,NDR,Tools (DL*),2,1,tensorflow
+Lyken17_pytorch-OpCounter,98,98,17,23,1021,NDR,Tools (DL*),2,,torch
+minimaxir_gpt-2-simple,98,118,16,8,991,DR,NLP,2,11,tensorflow
+DeepX-inc_machina,97,2018,22,27,202,DR,Reinforcement Learning,2,9,torch
+uclmr_jack,92,2745,43,41,,DR,NLP,2,19,torch
+studioml_studio,91,2344,32,31,334,NDR,Tools (DL*),2,39,tensorflow
+taehoonlee_tensornets,90,261,6,27,850,DR,CV,2,1,tensorflow
+taehoonlee_tensornets,90,261,6,27,850,DR,CV,2,1,torch
+okason97_DenseNet-Tensorflow2,88,23,4,7,4,DR,CV,2,2,tensorflow
+utiasSTARS_pykitti,86,59,17,44,467,DR,CV,2,3,torch
+CyberZHG_keras-radam,86,56,10,4,235,NDR,Tools (DL*),2,10,torch
+geffy_tffm,85,123,17,43,653,NDR,Model (DL*),2,3,tensorflow
+rlworkgroup_viskit,84,62,9,44,1,NDR,Tools (DL*),2,,tensorflow
+CyberZHG_keras-radam,84,56,10,4,235,NDR,Tools (DL*),2,10,tensorflow
+studioml_studio,82,2344,32,31,334,NDR,Tools (DL*),2,39,torch
+creafz_pytorch-cnn-finetune,81,79,2,22,458,DR,CV,2,,torch
+jsxlei_SCALE,79,296,4,14,20,DR,Biology,2,7,torch
+albermax_innvestigate,78,1403,24,24,416,,,2,1,tensorflow
+IBM_AIF360,75,220,33,16,,NDR,Tools (DL*),2,25,torch
+roj4s_face_detector,74,45,2,9,,DR,CV,2,,tensorflow
+phanrahan_magma,74,1917,32,33,78,,,2,12,tensorflow
+IBM_AIF360,74,220,33,16,,NDR,Tools (DL*),2,25,tensorflow
+CyberZHG_keras-bert,70,175,12,14,1132,DR,NLP,3,10,torch
+jakebian_picard,69,52,2,37,,NDR,Tools (DL*),2,,tensorflow
+williamFalcon_pytorch-lightning,66,180,3,9,,NDR,Wrapper (DL*),2,19,torch
+rajatvd_PytorchUtils,65,3,1,16,,NDR,Wrapper (DL*),2,,torch
+AlexEMG_DeepLabCut,64,637,50,20,,DR,CV,2,29,tensorflow
+christiansafka_img2vec,63,28,3,27,128,DR,CV,2,,torch
+SwamyDev_reinforcement,62,70,6,20,4,DR,Reinforcement Learning,2,,tensorflow
+dmlc_minpy,62,1271,24,49,1099,NDR,Framework (DL*),2,15,tensorflow
+LCAV_pyroomacoustics,60,1017,33,64,310,DR,Audio,2,14,tensorflow
+HazyResearch_metal,60,2675,59,19,313,DR,,2,18,torch
+tdb-alcorn_q2,60,32,2,18,3,DR,Reinforcement Learning,2,21,tensorflow
+williamFalcon_pytorch-lightning,58,180,3,9,3237,NDR,Wrapper (DL*),3,19,tensorflow
+dfm_exoplanet,56,1192,13,93,78,DR,Physics,2,31,tensorflow
+neighthan_gpu-utils,55,28,1,15,1,NDR,Tools (DL*),2,,tensorflow
+neighthan_gpu-utils,55,28,1,15,1,NDR,Tools (DL*),2,,torch
+qubvel_segmentation_models.pytorch,55,143,13,9,,DR,CV,2,,torch
+scanner-research_esper,54,786,9,32,6,DR,CV,2,,tensorflow
+dgasmith_opt_einsum,54,440,20,60,,NDR,Model (DL*),2,,tensorflow
+dmlc_minpy,54,1271,24,49,1099,NDR,Framework (DL*),2,15,torch
+stefanwebb_tensorflow-utils,53,6,2,28,0,NDR,Wrapper (DL*),2,,tensorflow
+locuslab_mpc.pytorch,53,56,6,14,298,NDR,Model (DL*),2,1,torch
+roamanalytics_mittens,52,12,7,21,163,DR,NLP,2,1,tensorflow
+cgarciae_phi,51,211,4,37,108,,,2,,tensorflow
+pytorch_contrib,51,105,15,17,281,,,2,,torch
+jamalex_notion-py,51,127,18,13,465,,,3,8,torch
+unixpickle_spherenet,50,24,1,25,22,DR,CV,2,1,tensorflow
+tensorflow_mesh,50,375,27,15,329,NDR,Framework (DL*),2,4,tensorflow
+dgasmith_opt_einsum,49,440,20,60,,NDR,Model (DL*),2,,torch
+kubeflow_fairing,49,936,57,19,162,NDR,Tools (DL*),2,35,tensorflow
+Bihaqo_t3f,48,1181,16,35,136,NDR,Model (DL*),2,4,tensorflow
+DCASE-REPO_dcase_util,47,629,7,25,,DR,Audio,2,,tensorflow
+CyberZHG_keras-pos-embd,47,17,3,15,31,DR,NLP,2,9,tensorflow
+akimach_tfgraphviz,46,23,5,34,33,NDR,Tools (DL*),2,,tensorflow
+XanaduAI_pennylane,46,2248,16,20,,,,2,22,tensorflow
+XanaduAI_pennylane,46,2248,16,20,,,,2,22,torch
+neptune-ml_neptune-tensorflow,45,56,12,9,,NDR,Tools (DL*),2,,tensorflow
+ChristianSch_PyPythia,45,38,4,43,1,DR,,2,1,tensorflow
+glotzerlab_pythia,45,83,4,20,4,DR,Physics,2,7,tensorflow
+eleozzr_desc,45,91,5,11,12,DR,Biology,2,9,tensorflow
+jinfagang_alfred,44,90,5,22,90,DR,CV,2,8,tensorflow
+snipsco_snips-nlu,43,2809,32,34,2924,DR,NLP,2,,tensorflow
+CyberZHG_keras-layer-normalization,43,20,3,14,35,NDR,Wrapper (DL*),2,10,tensorflow
+onnx_sklearn-onnx,42,1616,21,12,87,NDR,Tools (DL*),2,21,torch
+allegroai_trains,42,309,7,6,,NDR,Tools (DL*),2,42,tensorflow
+allegroai_trains,42,309,7,6,,NDR,Tools (DL*),2,42,torch
+kerryeon_mp,41,89,2,14,,,,2,4,torch
+kylinorange_insight,41,27,3,23,,DR,,2,4,tensorflow
+onnx_sklearn-onnx,41,1616,21,12,87,NDR,Tools (DL*),2,21,tensorflow
+albermax_innvestigate,40,1403,24,24,416,,,2,1,torch
+masa-su_pixyz,40,749,12,18,280,NDR,Wrapper (DL*),3,7,tensorflow
+masa-su_pixyz,40,749,12,18,280,NDR,Wrapper (DL*),2,7,torch
+jinfagang_alfred,39,90,5,22,90,DR,CV,2,8,torch
+google_tangent,39,175,24,25,1918,NDR,Model (DL*),2,18,tensorflow
+atomistic-machine-learning_schnetpack,38,1043,27,15,151,DR,Physics,3,28,tensorflow
+atomistic-machine-learning_schnetpack,38,1043,27,15,151,DR,Physics,2,28,torch
+CyberZHG_keras-transformer,37,40,6,14,127,NDR,Model (DL*),2,14,tensorflow
+timesler_facenet-pytorch,36,229,5,7,536,DR,CV,2,15,tensorflow
+timesler_facenet-pytorch,36,229,5,7,536,DR,CV,2,15,torch
+kubeflow_fairing,36,936,57,19,162,NDR,Tools (DL*),2,35,torch
+mrahtz_easy-tf-log,35,39,2,21,99,NDR,Tools (DL*),2,,tensorflow
+guybedo_minos,35,194,5,34,45,DR,,2,,tensorflow
+HazyResearch_metal,35,2675,59,19,313,DR,,3,18,tensorflow
+hiroyuki827_deep_learning_tools,34,25,1,23,,NDR,Tutorial (DL*),2,,tensorflow
+amzn_emukit,34,1257,34,15,,NDR,Framework (DL*),2,21,tensorflow
+amzn_emukit,34,1257,34,15,,NDR,Framework (DL*),2,21,torch
+scanner-research_esper,33,786,9,32,6,DR,CV,2,,torch
+YosefLab_sComputer VisionI,33,0,0,-1,,DR,Biology,2,,tensorflow
+funkey_gunpowder,33,1591,34,32,18,DR,CV,2,8,tensorflow
+google_tangent,33,175,24,25,1918,NDR,Model (DL*),2,18,torch
+YosefLab_scVI,33,1456,45,27,253,DR,Biology,2,35,torch
+Swall0w_torchstat,32,43,5,14,594,NDR,Tools (DL*),2,4,torch
+funkey_gunpowder,32,1591,34,32,18,DR,CV,2,8,torch
+Yelp_MOE,32,1123,38,70,1198,NDR,Tools (DL*),2,13,tensorflow
+dragonfly_dragonfly,32,372,15,20,430,NDR,Framework (DL*),2,16,tensorflow
+descarteslabs_descarteslabs-python,32,1171,33,34,109,DR,,2,23,tensorflow
+kerwin6182828_kerwin_code_files,31,13,2,12,,,,2,,tensorflow
+jpuigcerver_pytorch-baidu-ctc,31,29,3,15,39,NDR,Tools (DL*),2,3,torch
+statueofmike_rtsp,31,25,3,18,30,DR,CV,3,4,tensorflow
+ragulpr_wtte-rnn,31,271,17,35,513,DR,,2,6,tensorflow
+theislab_dca,31,594,12,36,106,DR,Biology,2,8,tensorflow
+DIYer22_boxx,31,213,8,25,358,NDR,Tools (DL*),2,10,torch
+delira-dev_delira,31,1780,27,12,204,NDR,Framework (DL*),2,19,tensorflow
+tensorchiefs_dl_utils,30,17,4,26,,,,2,,tensorflow
+titu1994_keras-efficientnets,30,66,5,6,117,DR,CV,2,1,tensorflow
+zasdfgbnm_TorchSnooper,30,88,2,7,423,NDR,Tools (DL*),2,2,torch
+MIC-DKFZ_trixi,30,673,21,28,170,NDR,Tools (DL*),3,20,tensorflow
+mil-tokyo_webdnn,30,1730,22,32,1632,NDR,Framework (DL*),2,463,tensorflow
+mil-tokyo_webdnn,30,1730,22,32,1632,NDR,Framework (DL*),2,463,torch
+JorisRoels_augmentation,29,48,3,4,1,NDR,Tools (DL*),2,5,torch
+spotify_spotify-tensorflow,29,578,36,28,95,NDR,Wrapper (DL*),2,11,tensorflow
+MIC-DKFZ_trixi,29,673,21,28,170,NDR,Tools (DL*),2,20,torch
+ProGamerGov_neural-style-pt,28,401,6,17,86,DR,,2,,torch
+rmst_chi,28,35,3,34,52,NDR,Framework (DL*),2,,tensorflow
+AlassaneNdiaye_machine-learning,28,62,3,33,,,,2,,tensorflow
+DarkoBomer_neuralgym1,28,2,1,12,,,,2,5,tensorflow
+CosmiQ_solaris,28,840,18,8,94,DR,Physics,2,27,torch
+uber_petastorm,27,831,33,17,628,NDR,Tools (DL*),2,,tensorflow
+uber_petastorm,27,831,33,17,628,NDR,Tools (DL*),2,,torch
+sovrasov_flops-counter.pytorch,27,44,3,16,406,NDR,Tools (DL*),2,,torch
+bethgelab_decompose,27,80,3,21,35,NDR,Framework (DL*),2,,tensorflow
+quanhua92_maskrcnn-pytorch,27,23,1,12,2,NDR,Tutorial (DL*),2,3,torch
+kaushaltrivedi_fast-bert,27,28,6,8,0,NDR,Tutorial (DL*),2,9,torch
+bethgelab_robust-vision-benchmark,27,23,4,28,14,NDR,Tools (DL*),2,15,tensorflow
+sentinel-hub_eo-learn,27,1216,46,19,399,DR,Physics,2,71,tensorflow
+onnx_onnx-mxnet,26,114,20,25,92,NDR,Tools (DL*),4,2,tensorflow
+zhijing-jin_efficiency,26,109,5,18,,NDR,Tools (DL*),2,3,torch
+CyberZHG_keras-multi-head,26,28,3,15,70,NDR,Wrapper (DL*),2,10,tensorflow
+onnx_keras-onnx,26,1565,40,21,83,NDR,Tools (DL*),2,14,tensorflow
+onnx_keras-onnx,26,1565,40,21,83,NDR,Tools (DL*),3,14,torch
+n8henrie_simplenet,26,10,1,25,1,NDR,Tutorial (DL*),2,17,tensorflow
+CosmosShadow_lake,25,305,10,32,4,,,2,,torch
+PipelineAI_pip,25,37,2,27,,NDR,Tools (DL*),2,,tensorflow
+FebruaryBreeze_torch-utils,25,12,1,8,,NDR,Tools (DL*),2,1,torch
+ctmakro_canton,25,97,2,34,10,NDR,Wrapper (DL*),2,2,tensorflow
+mikgroup_sigpy,25,737,15,17,63,DR,,2,11,torch
+civisanalytics_muffnn,25,320,19,40,40,NDR,Model (DL*),2,13,tensorflow
+Franck-Dernoncourt_NeuroNER,25,175,16,33,1327,,,2,14,tensorflow
+NervanaSystems_ngraph-onnx,25,2088,38,23,34,NDR,Tools (DL*),2,16,torch
+azavea_raster-vision,25,2034,25,34,803,DR,Physics,2,33,tensorflow
+RLOpensource_tensorflow_RL,24,128,7,11,,NDR,Tutorial (DL*),2,,tensorflow
+google_ml-metadata,24,72,11,11,95,NDR,Tools (DL*),2,5,tensorflow
+yngtodd_datastore,24,68,3,5,0,NDR,Framework (DL*),2,6,torch
+ustroetz_python-osrm,24,102,17,56,59,DR,,3,7,tensorflow
+ustroetz_python-osrm,24,102,17,56,59,DR,,3,7,torch
+CarlSouthall_ADTLib,24,39,6,40,72,DR,Audio,2,10,tensorflow
+CosmiQ_solaris,24,840,18,8,94,DR,Physics,2,27,tensorflow
+azavea_raster-vision,24,2034,25,34,803,DR,Physics,2,33,torch
+bentoml_BentoML,24,534,6,8,509,NDR,Tools (DL*),2,37,tensorflow
+bentoml_BentoML,24,534,6,8,509,NDR,Tools (DL*),2,37,torch
+CosmosShadow_lake,23,305,10,32,4,,,2,,tensorflow
+yoeo_guesslang,23,75,2,31,77,DR,NLP,2,4,tensorflow
+yoeo_guesslang,23,75,2,31,77,DR,NLP,2,4,tensorflow
+nerox8664_pytorch2keras,23,294,17,25,351,NDR,Tools (DL*),2,8,tensorflow
+nerox8664_pytorch2keras,23,294,17,25,351,NDR,Tools (DL*),2,8,torch
+wdbm_abstraction,23,595,4,62,9,DR,NLP,2,17,tensorflow
+cheind_tf-matplotlib,22,48,2,21,92,NDR,Tools (DL*),2,1,tensorflow
+zhijing-jin_efficiency,22,109,5,18,0,NDR,Tools (DL*),2,3,tensorflow
+harvardnlp_NamedTensor,22,80,34,11,350,NDR,Wrapper (DL*),3,10,tensorflow
+harvardnlp_NamedTensor,22,80,34,11,350,NDR,Wrapper (DL*),2,10,torch
+ria-com_nomeroff-net,22,431,10,12,171,DR,CV,2,42,tensorflow
+thomasnilsson_ml02450,21,15,2,12,0,,,2,,torch
+fgnt_nara_wpe,21,249,12,30,,DR,Audio,2,,tensorflow
+yngtodd_molecules,21,140,8,14,,DR,Physics,2,,torch
+msamogh_nonechucks,21,27,1,14,218,NDR,Wrapper (DL*),2,1,torch
+aiqm_torchani,21,2204,18,20,104,DR,Medicine,3,7,tensorflow
+theislab_dca,21,594,12,36,106,DR,Biology,2,8,torch
+google_TensorNetwork,21,2362,55,8,839,NDR,Tools (DL*),2,10,tensorflow
+BenevolentAI_guacamol,21,82,12,13,82,DR,Medicine,3,13,tensorflow
+mrdrozdov_pytorch-extras,20,1,1,33,,NDR,Framework (DL*),2,,torch
+poldracklab_niworkflows,20,1927,30,41,,DR,Biology,3,2,torch
+mtiezzi_gnn,20,21,2,6,,DR,Graph DL,2,3,tensorflow
+chenyaofo_flame,20,37,1,9,5,,,2,5,torch
+aiqm_torchani,20,2204,18,20,104,DR,Medicine,2,7,torch
+IlyaGusev_rnnmorph,20,79,3,27,67,DR,NLP,2,21,tensorflow
+shkreza_gym-tictactoe,19,1,1,11,,DR,Reinforcement Learning,2,,tensorflow
+neuro-ml_deep_pipe,19,938,19,31,,,,2,,tensorflow
+rusty1s_pytorch_unique,19,76,1,23,,NDR,Framework (DL*),2,,torch
+neuro-ml_deep_pipe,19,938,19,31,,,,2,,torch
+Hong-Xiang_dxdata,19,129,2,21,1,,,2,3,tensorflow
+gvtulder_elasticdeform,19,74,1,16,30,DR,CV,2,4,tensorflow
+tech-pi_dxlearn,19,673,14,21,4,,,2,13,tensorflow
+VainF_pytorch-msssim,18,57,5,8,38,NDR,Model (DL*),2,2,torch
+AlliedToasters_synapses,18,24,1,13,34,NDR,Model (DL*),2,4,torch
+rwightman_pytorch-image-models,18,98,4,10,1702,DR,CV,2,5,tensorflow
+rwightman_pytorch-image-models,18,98,4,10,1702,DR,CV,2,5,torch
+brine-io_brine,18,2,1,26,14,,,2,6,torch
+HongSeokHwan_ait,17,136,3,25,0,,,2,,tensorflow
+torchgan_torchgan,17,599,18,15,824,DR,Reinforcement Learning,3,5,tensorflow
+torchgan_torchgan,17,599,18,15,824,DR,Reinforcement Learning,2,5,torch
+automl_pybnn,17,121,4,16,42,NDR,Model (DL*),2,10,torch
+cirick_batching,17,32,5,7,0,NDR,Tools (DL*),2,13,tensorflow
+f-dangel_backpack,17,1128,7,13,5,NDR,Model (DL*),2,15,torch
+henrysky_astroNN,17,1614,3,26,71,DR,Physics,2,23,tensorflow
+mblondel_soft-dtw,16,42,5,30,194,DR,,2,,torch
+bioinf-jku_FCD,16,23,5,21,21,DR,Medicine,2,,tensorflow
+facebookresearch_qhoptim,16,18,1,11,73,NDR,Model (DL*),2,,tensorflow
+facebookresearch_qhoptim,16,18,1,11,73,NDR,Model (DL*),2,,torch
+Kuree_pycoreir,16,539,21,27,0,,,3,1,tensorflow
+hcchengithub_peforth,16,280,2,29,13,,,2,1,tensorflow
+ClementPinard_Pytorch-Correlation-extension,16,29,2,16,134,,,2,4,torch
+DAI-Lab_TGAN,16,89,6,19,0,DR,Reinforcement Learning,2,5,tensorflow
+learnables_cherry,16,839,11,13,26,DR,NLP,2,9,torch
+Time1ess_torchtools,16,91,2,28,10,NDR,Tools (DL*),3,10,tensorflow
+Time1ess_torchtools,16,91,2,28,10,NDR,Tools (DL*),2,10,torch
+CyberZHG_keras-gpt-2,16,46,5,11,79,NDR,Tools (DL*),2,11,tensorflow
+zh217_torch-dct,15,23,4,15,48,NDR,Model (DL*),2,1,tensorflow
+zh217_torch-dct,15,23,4,15,48,NDR,Model (DL*),2,1,torch
+neo-ai_neo-ai-dlr,15,328,29,12,271,NDR,Tools (DL*),3,2,torch
+spino17_PyGlow,15,123,4,5,10,NDR,Framework (DL*),2,2,torch
+TinkeringCode_PokerRL,15,11,4,10,0,DR,Reinforcement Learning,2,7,torch
+belskikh_kekas,15,201,10,16,150,NDR,Tools (DL*),3,8,tensorflow
+geomstats_geomstats,15,1703,24,26,244,DR,Graph DL,2,19,tensorflow
+fab-jul_fjcommon,14,189,3,29,2,NDR,Tools (DL*),2,,tensorflow
+SurrealAI_symphony,14,242,9,20,7,DR,Reinforcement Learning,2,,torch
+eghisu_GraphKernels,14,143,13,49,7,DR,CV,2,,tensorflow
+jbohnslav_opencv_transforms,14,30,4,16,,DR,CV,2,,torch
+SunYanCN_bert-text,14,54,4,8,22,DR,NLP,2,,tensorflow
+danaugrs_huskarl,14,52,4,10,344,DR,Reinforcement Learning,2,3,tensorflow
+DAI-Lab_Copulas,14,485,40,25,,,,2,7,tensorflow
+belskikh_kekas,14,201,10,16,150,NDR,Tools (DL*),2,8,torch
+dominiek_transferflow,14,97,3,34,35,DR,,2,12,tensorflow
+IlyaGusev_rupo,14,147,3,33,107,DR,NLP,2,28,tensorflow
+PrincetonUniversity_PsyNeuLink,14,21282,59,42,35,DR,Medicine,2,28,torch
+aschampion_diluvian,14,428,5,35,13,DR,Biology,2,35,tensorflow
+big-data-lab-team_sam,13,189,12,37,0,DR,CV,4,,tensorflow
+big-data-lab-team_sam,13,189,12,37,0,DR,CV,4,,torch
+jaidevd_kepler,13,43,3,16,4,NDR,Tutorial (DL*),2,,tensorflow
+data61_aboleth,13,459,9,34,,NDR,Model (DL*),2,,tensorflow
+sanchit2843_image_classification,13,95,1,6,,DR,CV,2,,torch
+fizyr_keras-maskrcnn,13,198,13,21,261,NDR,Model (DL*),2,2,tensorflow
+google-research_football,13,47,19,7,1614,DR,Reinforcement Learning,2,5,tensorflow
+google_dopamine,13,206,41,16,8196,DR,Reinforcement Learning,2,5,torch
+mackelab_delfi,13,367,12,25,26,NDR,Model (DL*),2,6,torch
+CyberZHG_keras-position-wise-feed-forward,13,12,4,14,5,NDR,Model (DL*),2,11,tensorflow
+faustomorales_mira,13,43,1,11,1,DR,CV,2,16,tensorflow
+delira-dev_delira,13,1780,27,12,204,NDR,Framework (DL*),2,19,torch
+zengbin93_zb,13,46,1,26,1,,,2,21,tensorflow
+Erotemic_netharn,13,1095,10,21,29,NDR,Tools (DL*),2,42,torch
+faustomorales_keras-facenet,12,6,1,8,3,DR,CV,2,,tensorflow
+Xeeshanmalik_deep_ml_esn,12,15,2,12,,NDR,Model (DL*),2,,tensorflow
+rcluan_ai_utils,12,14,2,13,,DR,Reinforcement Learning,2,,tensorflow
+mymusise_Trading-Gym,12,74,3,11,36,DR,Reinforcement Learning,2,,tensorflow
+Reddan_checkpointer,12,39,3,22,1,,,2,2,tensorflow
+prisma-ai_torch2coreml,12,30,4,28,334,NDR,Tools (DL*),2,2,torch
+cgarciae_tfinterface,12,212,6,34,1,NDR,Wrapper (DL*),2,3,tensorflow
+google_uis-rnn,12,165,7,14,997,DR,NLP,2,3,torch
+johnolafenwa_TorchFusion,12,81,6,18,218,NDR,Framework (DL*),3,4,tensorflow
+johnolafenwa_TorchFusion,12,81,6,18,218,NDR,Framework (DL*),2,4,torch
+Marcnuth_Keras-Models,12,26,3,12,1,NDR,Tutorial (DL*),3,6,tensorflow
+CyberZHG_keras-embed-sim,12,11,3,12,7,DR,Reinforcement Learning,2,9,tensorflow
+mdai_mdai-client-py,12,185,11,20,12,DR,Medicine,2,11,tensorflow
+mdai_mdai-client-py,12,185,11,20,12,DR,Medicine,2,11,torch
+JesperDramsch_keras-complex,12,94,10,31,12,NDR,Model (DL*),2,14,tensorflow
+amoussawi_recoder,12,212,4,27,31,NDR,Model (DL*),2,18,tensorflow
+amoussawi_recoder,12,212,4,27,31,NDR,Model (DL*),2,18,torch
+automl_Auto-PyTorch,12,109,5,13,462,NDR,Tools (DL*),2,19,torch
+Tiiiger_bert_score,11,111,12,8,0,DR,NLP,2,,torch
+cemoody_torch_trainer,11,6,3,20,0,NDR,Wrapper (DL*),2,,torch
+oujago_oujago,11,136,7,32,0,DR,NLP,2,,torch
+ZFTurbo_Keras-inference-time-optimizer,11,38,5,19,115,DR,CV,3,2,tensorflow
+cgarciae_tensorbuilder,11,185,5,43,91,NDR,Wrapper (DL*),2,2,tensorflow
+iitzco_deepbrain,11,57,2,16,9,DR,Biology,2,3,tensorflow
+davidmascharka_detection-utils,11,52,5,10,11,DR,CV,2,3,torch
+ghcollin_tftables,11,22,1,40,63,DR,CV,2,3,tensorflow
+iitzco_tfserve,11,52,3,15,28,NDR,Tools (DL*),2,4,tensorflow
+kensk8er_chicksexer,11,98,5,31,45,DR,NLP,2,6,tensorflow
+ganguli-lab_twpca,11,142,7,34,78,DR,Biology,2,7,tensorflow
+VinF_deer,11,747,17,47,410,DR,Reinforcement Learning,2,7,tensorflow
+pesser_edflow,11,971,17,16,9,NDR,Tools (DL*),2,11,tensorflow
+bjherger_keras-pandas,11,339,5,20,47,NDR,Wrapper (DL*),2,11,tensorflow
+cdqa-suite_cdQA,11,690,17,11,212,DR,NLP,3,12,tensorflow
+cdqa-suite_cdQA,11,690,17,11,212,DR,NLP,2,12,torch
+sbl1996_pytorch-hrvvi-ext,11,310,3,11,2,DR,NLP,2,12,torch
+f-dangel_backpack,11,1128,7,13,5,NDR,Model (DL*),3,15,tensorflow
+amaiya_ktrain,11,51,2,8,73,NDR,Wrapper (DL*),2,17,tensorflow
+vita-epfl_openpifpafwebdemo,11,161,1,9,0,NDR,Tools (DL*),2,495,torch
+xgcm_xrft,10,334,32,55,33,NDR,Model (DL*),2,,tensorflow
+google-research-datasets_bim,10,9,3,6,,NDR,Tools (DL*),2,,tensorflow
+LucaCappelletti94_silence_tensorflow,10,23,1,7,,NDR,Tools (DL*),2,,tensorflow
+mortendahl_tf-encrypted,10,2159,31,21,,NDR,Tools (DL*),2,,tensorflow
+LucaCappelletti94_extra_keras_utils,10,17,1,7,,,,2,,tensorflow
+google_TensorNetwork,10,2362,55,8,839,NDR,Tools (DL*),3,10,torch
+dade-ai_sflow,10,71,11,29,1,NDR,Wrapper (DL*),2,13,tensorflow
+dade-ai_sflow,10,71,11,29,1,NDR,Wrapper (DL*),2,13,torch
+algofairness_fairness-comparison,10,507,22,34,74,NDR,Tools (DL*),2,18,tensorflow
+geomstats_geomstats,10,1703,24,26,244,DR,Graph DL,2,19,torch
+beyretb_AnimalAI-Olympics,10,267,14,8,275,DR,Biology,2,20,tensorflow
+beyretb_AnimalAI-Olympics,10,267,14,8,275,DR,Biology,2,20,torch
+naver_claf,10,191,8,10,162,DR,NLP,2,26,tensorflow
+naver_claf,10,191,8,10,162,DR,NLP,2,26,torch
+IntelAI_mlt,10,2410,54,23,0,NDR,Tools (DL*),2,69,tensorflow
